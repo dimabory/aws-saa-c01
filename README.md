@@ -13,5 +13,5 @@
 + [Elastic Compute Cloud (EC2)](04-ec2.md)
   + [Instance Types](04.1-types.md)
   + [Security Groups](04.2-security_groups.md)
-  + [EBS Volumes](04.3-ebs_volumes.md)
+  + [EBS Volumes & Snapshots](04.3-ebs_volumes_snapshots.md)
   + [Exam Tips](04.n-exam_tips.md)
