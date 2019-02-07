@@ -11,4 +11,5 @@
   + [S3 Transfer Acceleration](03.4-transfer-acceleration.md)
   + [Exam Tips](03.5-exam_tips.md)
 + [Elastic Compute Cloud (EC2)](04-ec2.md)
-  + [EInstance Types](04.1-types.md)
+  + [Instance Types](04.1-types.md)
+  + [Exam Tips](04.n-exam_tips.md)
