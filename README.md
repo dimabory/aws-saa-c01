@@ -12,4 +12,5 @@
   + [Exam Tips](03.5-exam_tips.md)
 + [Elastic Compute Cloud (EC2)](04-ec2.md)
   + [Instance Types](04.1-types.md)
+  + [Security Groups](04.2-security_groups.md)
   + [Exam Tips](04.n-exam_tips.md)
