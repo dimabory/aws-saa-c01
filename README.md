@@ -16,4 +16,5 @@
   + [EBS Volumes & Snapshots](04.3-ebs_volumes_snapshots.md)
   + [EBS vs Instance Storage](04.4-ebs_vs_instance_store.md)
   + [Amazon Machine Images (AMI)](04.5-ami.md)
+  + [Load Balancer](04.6-load_balancer.md)
   + [Exam Tips](04.n-exam_tips.md)
