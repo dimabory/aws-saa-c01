@@ -14,4 +14,5 @@
   + [Instance Types](04.1-types.md)
   + [Security Groups](04.2-security_groups.md)
   + [EBS Volumes & Snapshots](04.3-ebs_volumes_snapshots.md)
+  + [EBS vs Instance Storage](04.4-ebs_vs_instance_store.md)
   + [Exam Tips](04.n-exam_tips.md)
