@@ -17,4 +17,5 @@
   + [EBS vs Instance Storage](04.4-ebs_vs_instance_store.md)
   + [Amazon Machine Images (AMI)](04.5-ami.md)
   + [Load Balancer](04.6-load_balancer.md)
+  + [Cloudwatch](04.7-cloudwatch.md)
   + [Exam Tips](04.n-exam_tips.md)
