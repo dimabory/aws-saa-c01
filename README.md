@@ -15,4 +15,5 @@
   + [Security Groups](04.2-security_groups.md)
   + [EBS Volumes & Snapshots](04.3-ebs_volumes_snapshots.md)
   + [EBS vs Instance Storage](04.4-ebs_vs_instance_store.md)
+  + [Amazon Machine Images (AMI)](04.5-ami.md)
   + [Exam Tips](04.n-exam_tips.md)
