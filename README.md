@@ -20,5 +20,5 @@
   + [Cloudwatch](04.7-cloudwatch.md)
   + [Auto Scaling Groups](04.8-auto-scaling-group.md)
   + [Placement Groups](04.9-placement-group.md)
-  + [Elastic File Store](04.10-efs.md)
+  + [Amazon Elastic File System (Amazon EFS)](04.10-efs.md)
   + [Exam Tips](04.n-exam_tips.md)
