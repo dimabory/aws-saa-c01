@@ -18,4 +18,5 @@
   + [Amazon Machine Images (AMI)](04.5-ami.md)
   + [Load Balancer](04.6-load_balancer.md)
   + [Cloudwatch](04.7-cloudwatch.md)
+  + [Auto Scaling Groups](04.8-auto-scaling-group.md)
   + [Exam Tips](04.n-exam_tips.md)
