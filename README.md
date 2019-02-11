@@ -22,3 +22,4 @@
   + [Placement Groups](04.09-placement-group.md)
   + [Amazon Elastic File System (Amazon EFS)](04.10-efs.md)
   + [Exam Tips](04.n-exam_tips.md)
++ [Lambda](05-lambda.md)
