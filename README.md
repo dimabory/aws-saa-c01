@@ -19,4 +19,5 @@
   + [Load Balancer](04.6-load_balancer.md)
   + [Cloudwatch](04.7-cloudwatch.md)
   + [Auto Scaling Groups](04.8-auto-scaling-group.md)
+  + [Placement Groups](04.9-placement-group.md)
   + [Exam Tips](04.n-exam_tips.md)
