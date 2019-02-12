@@ -24,5 +24,5 @@
   + [Exam Tips](04.n-exam_tips.md)
 + [Lambda](05-lambda.md)
 + [DNS](06-dns.md)
-+ [Route53](07-route53.md))
++ [Route53](07-route53.md)
 + [Databases](08-databases.md)
