@@ -56,3 +56,8 @@ Ledger databases are used when you need a centralized, trusted authority to main
 Used for: Systems of record, supply chain, registrations, and banking transactions.
 
 - Amazon Quantum Ledger Database (QLDB)
+
+---
+
+## _Exam Tips_
+
