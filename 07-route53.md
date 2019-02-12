@@ -1,4 +1,4 @@
-# Route53
+# Amazon Route 53
 
 Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. You can use Route 53 to perform three main functions:
 
@@ -14,9 +14,9 @@ Route 53 sends automated requests over the internet to a resource, such as a web
 # Routing Policy
 When you create a record, you choose a routing policy, which determines how Amazon Route 53 responds to queries:
 
-- Simple routing policy – Use for a single resource that performs a given function for your domain, for example, a web server that serves content for the example.com website.
+- Simple routing policy – Use for a single resource that performs a given function for your domain, for example, a web server that serves content for the example.com website. Randomly pick an IP from the list.
 
-- Failover routing policy – Use when you want to configure active-passive failover.
+- Failover routing policy – Use when you want to configure active-passive (primary-secondary) failover. 
 
 - Geolocation routing policy – Use when you want to route traffic based on the location of your users.
 
@@ -26,5 +26,4 @@ When you create a record, you choose a routing policy, which determines how Amaz
 
 - Multivalue answer routing policy – Use when you want Route 53 to respond to DNS queries with up to eight healthy records selected at random.
 
-- Weighted routing policy – Use to route traffic to multiple resources in proportions that you specify.
-
+- Weighted routing policy – Use to route traffic to multiple resources in proportions that you specify. For instance 20% and 80%.
