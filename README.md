@@ -23,3 +23,4 @@
   + [Amazon Elastic File System (Amazon EFS)](04.10-efs.md)
   + [Exam Tips](04.n-exam_tips.md)
 + [Lambda](05-lambda.md)
++ [DNS](06-dns.md)
