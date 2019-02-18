@@ -33,3 +33,4 @@
 + [Simple Notification Service (SNS)](12-sns.md)
 + [Amazon Elastic Transcoder (ET)](13-et.md)
 + [API Gateway](14-api-gateway.md)
++ [Kinesis](15-kinesis.md)
