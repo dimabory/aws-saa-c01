@@ -30,3 +30,4 @@
 + [Virtual Private Cloud (VPC)](09-vpc.md)
 + [Simple Queue Service (SQS)](10-sqs.md)
 + [Simple Workflow Service (SWF)](11-swf.md)
++ [Simple Notification Service (SNS)](12-sns.md)
