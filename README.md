@@ -34,3 +34,4 @@
 + [Amazon Elastic Transcoder (ET)](13-et.md)
 + [API Gateway](14-api-gateway.md)
 + [Kinesis](15-kinesis.md)
++ [Simple Email Service (SES)](16-ses.md)
