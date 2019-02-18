@@ -32,3 +32,4 @@
 + [Simple Workflow Service (SWF)](11-swf.md)
 + [Simple Notification Service (SNS)](12-sns.md)
 + [Amazon Elastic Transcoder (ET)](13-et.md)
++ [API Gateway](14-api-gateway.md)
