@@ -36,3 +36,8 @@
 + [Kinesis](15-kinesis.md)
 + [Simple Email Service (SES)](16-ses.md)
 + [Well-Architected Framework](17-wa-framework.md)
+  + [Security](17.01-security.md)
+  + [Reliability](17.02-reliability.md)
+  + [Performance Efficiency](17.03-performance-efficiency.md)
+  + [Cost Optimization](17.04-cost-optimization.md)
+  + [Operational Excellence](17.05-op-excellence.md)
