@@ -35,3 +35,4 @@
 + [API Gateway](14-api-gateway.md)
 + [Kinesis](15-kinesis.md)
 + [Simple Email Service (SES)](16-ses.md)
++ [Well-Architectured Framework](17-wa-framework.md)
