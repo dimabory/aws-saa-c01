@@ -32,7 +32,7 @@ _Exam Tips_:
 
 - IAM is universal (global).
 - "root account" - full admin access.
-- New users have NO permissions at all whe first created.
+- New users have NO permissions at all when first created.
 - Access Key Id & Secret Access Keys are used to access AWS via APIs and CLI.
 - ALWAYS setup MFA on the root account.
 - Root can create & customise password rotation policies.
