@@ -41,3 +41,4 @@
   + [Performance Efficiency](17.03-performance-efficiency.md)
   + [Cost Optimization](17.04-cost-optimization.md)
   + [Operational Excellence](17.05-op-excellence.md)
++ [Key Pointers from Exam 2018](18.exam-key-pointers.md)
